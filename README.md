@@ -8,10 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Opencv and keras is required for image recognistion. 
 
 ```
-Give examples
+run pip install opencv-python 
 ```
 
 ### Installing
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Khalil Mohsin** - *Initial work* - [Bangoga](https://github.com/bangoga)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -81,3 +81,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
+https://gist.github.com/PurpleBooth for template
